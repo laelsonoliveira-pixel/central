@@ -1,1 +1,23 @@
-
+{
+  "radio": {
+    "nome": "Rádio Central 101 FM",
+    "slogan": "Tá na Central, Tá Legal!",
+    "logo": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/logo_central.png",
+    "stream": "http://srv01.brasilstream.com.br:8036/stream",
+    "metadata_url": "http://srv01.brasilstream.com.br:8036/status-json.xsl",
+    "site": "https://radiocentralmontealegre.com.br",
+    "email": "radiocentralam970@terra.com.br"
+  },
+  "contato": {
+    "instagram": "https://instagram.com/radiocentral",
+    "facebook": "https://www.facebook.com/Central101FM",
+    "whatsapp": "https://wa.me/5534996491118"
+  },
+  "promocoes": [
+    {
+      "titulo": "Promoção do Dia",
+      "descricao": "Participe e concorra a prêmios!",
+      "imagem": "https://via.placeholder.com/400x200"
+    }
+  ]
+}
