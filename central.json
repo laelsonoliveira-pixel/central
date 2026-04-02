@@ -15,17 +15,27 @@
   },
   "locutores": [
     {
-      "nome": "João Silva",
-      "programa": "Manhã Central",
-      "foto": "https://via.placeholder.com/150"
+      "nome": "Alex Silva",
+      "programa": "Jornal da Central",
+      "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/logo_central.png"
     }
   ],
   "historico": [],
   "promocoes": [
     {
       "titulo": "Promoção Central",
+      "descricao": "Quinta da Pizza!",
+      "imagem": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/pizza.jpg"
+    },
+    {
+      "titulo": "Promoção Central",
+      "descricao": "Aniversário Premiado!",
+      "imagem": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/aniversario.jpg"
+    },
+    {
+      "titulo": "Promoção Central",
       "descricao": "Participe agora!",
-      "imagem": "https://via.placeholder.com/400x200"
+      "imagem": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/grana_extra.jpg"
     }
   ],
   "push": {
