@@ -3,8 +3,7 @@
     "nome": "Rádio Central 101 FM",
     "slogan": "Tá na Central, Tá Legal!",
     "logo": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/logo_central.png",
-    "stream": "https://8036.brasilstream.com.br/stream",
-    "metadata_url": "https://api.brasilstream.com.br/musica_agora/id:1185863148"
+    "stream": "https://8036.brasilstream.com.br/stream"
   },
   "contato": {
     "instagram": "@radiocentral",
