@@ -35,6 +35,21 @@
       "titulo": "Promoção Central",
       "descricao": "Participe agora!",
       "imagem": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/grana_extra.jpg"
+    },
+    {
+      "titulo": "Promoção Central",
+      "descricao": "Resenha Central!",
+      "imagem": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/resenha.jpg"
+    },
+    {
+      "titulo": "Promoção Central",
+      "descricao": "Placa Premiada",
+      "imagem": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/placa_premiada.jpg"
+    },
+    {
+      "titulo": "Promoção Central",
+      "descricao": "Dinheiro na mão.",
+      "imagem": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/dinheiro_na_mao.jpg"
     }
   ],
   "push": {
