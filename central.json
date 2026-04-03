@@ -6,10 +6,10 @@
     "stream": "https://8036.brasilstream.com.br/stream"
   },
   "contato": {
-    "instagram": "@radiocentral",
+    "instagram": "https://instagram.com/radiocentral",
     "facebook": "https://www.facebook.com/Central101FM",
-    "whatsapp": "+55 34 99649-1118",
-    "site": "radiocentralmontealegre.com.br",
+    "whatsapp": "https://wa.me/5534996491118",
+    "site": "https://radiocentralmontealegre.com.br",
     "email": "radiocentralam970@terra.com.br"
   },
   "locutores": [
@@ -20,111 +20,109 @@
     }
   ],
   "programacao": {
-  "segunda_sexta": [
-    {
-      "horario": "05:00 - 08:00",
-      "programa": "Show da Manhã",
-      "locutor": "Equipe Central",
-      "foto": "https://via.placeholder.com/150"
-    },
-    {
-      "horario": "08:00 - 11:00",
-      "programa": "TOP Central",
-      "locutor": "Equipe Central",
-      "foto": "https://via.placeholder.com/150"
-    },
-    {
-      "horario": "11:00 - 11:33",
-      "programa": "A Voz das Assembleias de Deus",
-      "locutor": "Igreja",
-      "foto": "https://via.placeholder.com/150"
-    },
-    {
-      "horario": "11:33 - 13:00",
-      "programa": "Jornal da Central",
-      "locutor": "Alex Silva",
-      "foto": "https://via.placeholder.com/150"
-    },
-    {
-      "horario": "13:00 - 16:00",
-      "programa": "Central Alegre",
-      "locutor": "Equipe Central",
-      "foto": "https://via.placeholder.com/150"
-    },
-    {
-      "horario": "16:00 - 18:00",
-      "programa": "Alô Central",
-      "locutor": "Cairo Santos",
-      "foto": "https://via.placeholder.com/150"
-    },
-    {
-      "horario": "18:00 - 18:05",
-      "programa": "Ave-Maria",
-      "locutor": "Religioso",
-      "foto": "https://via.placeholder.com/150"
-    },
-    {
-      "horario": "18:05 - 21:00",
-      "programa": "Noite 101",
-      "locutor": "Equipe Central",
-      "foto": "https://via.placeholder.com/150"
-    },
-    {
-      "horario": "21:00 - 22:00",
-      "programa": "A Voz do Brasil",
-      "locutor": "Governo Federal",
-      "foto": "https://via.placeholder.com/150"
-    },
-    {
-      "horario": "22:00 - 05:00",
-      "programa": "Madrugada 101",
-      "locutor": "Automático",
-      "foto": "https://via.placeholder.com/150"
-    }
-  ],
-
-  "sabado": [
-    {
-      "horario": "05:00 - 12:00",
-      "programa": "Sábado Especial",
-      "locutor": "Equipe Central",
-      "foto": "https://via.placeholder.com/150"
-    },
-    {
-      "horario": "12:00 - 18:00",
-      "programa": "Top Hits",
-      "locutor": "Equipe Central",
-      "foto": "https://via.placeholder.com/150"
-    },
-    {
-      "horario": "18:00 - 00:00",
-      "programa": "Sábado Night",
-      "locutor": "DJ Central",
-      "foto": "https://via.placeholder.com/150"
-    }
-  ],
-
-  "domingo": [
-    {
-      "horario": "06:00 - 12:00",
-      "programa": "Domingo Gospel",
-      "locutor": "Religioso",
-      "foto": "https://via.placeholder.com/150"
-    },
-    {
-      "horario": "12:00 - 18:00",
-      "programa": "Domingo Alegre",
-      "locutor": "Equipe Central",
-      "foto": "https://via.placeholder.com/150"
-    },
-    {
-      "horario": "18:00 - 00:00",
-      "programa": "Flashback Central",
-      "locutor": "Equipe Central",
-      "foto": "https://via.placeholder.com/150"
-    }
-  ]
-}
+    "segunda_sexta": [
+      {
+        "horario": "05:00 - 08:00",
+        "programa": "Show da Manhã",
+        "locutor": "Equipe Central",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "08:00 - 11:00",
+        "programa": "TOP Central",
+        "locutor": "Equipe Central",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "11:00 - 11:33",
+        "programa": "A Voz das Assembleias de Deus",
+        "locutor": "Igreja",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "11:33 - 13:00",
+        "programa": "Jornal da Central",
+        "locutor": "Alex Silva",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "13:00 - 16:00",
+        "programa": "Central Alegre",
+        "locutor": "Equipe Central",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "16:00 - 18:00",
+        "programa": "Alô Central",
+        "locutor": "Cairo Santos",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "18:00 - 18:05",
+        "programa": "Ave-Maria",
+        "locutor": "Religioso",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "18:05 - 21:00",
+        "programa": "Noite 101",
+        "locutor": "Equipe Central",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "21:00 - 22:00",
+        "programa": "A Voz do Brasil",
+        "locutor": "Governo Federal",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "22:00 - 05:00",
+        "programa": "Madrugada 101",
+        "locutor": "Automático",
+        "foto": "https://via.placeholder.com/150"
+      }
+    ],
+    "sabado": [
+      {
+        "horario": "05:00 - 12:00",
+        "programa": "Sábado Especial",
+        "locutor": "Equipe Central",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "12:00 - 18:00",
+        "programa": "Top Hits",
+        "locutor": "Equipe Central",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "18:00 - 00:00",
+        "programa": "Sábado Night",
+        "locutor": "DJ Central",
+        "foto": "https://via.placeholder.com/150"
+      }
+    ],
+    "domingo": [
+      {
+        "horario": "06:00 - 12:00",
+        "programa": "Domingo Gospel",
+        "locutor": "Religioso",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "12:00 - 18:00",
+        "programa": "Domingo Alegre",
+        "locutor": "Equipe Central",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "18:00 - 00:00",
+        "programa": "Flashback Central",
+        "locutor": "Equipe Central",
+        "foto": "https://via.placeholder.com/150"
+      }
+    ]
+  },
   "historico": [],
   "promocoes": [
     {
