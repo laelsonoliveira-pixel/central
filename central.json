@@ -84,21 +84,57 @@
     ],
     "sabado": [
       {
-        "horario": "05:00 - 12:00",
-        "programa": "Sábado Especial",
+        "horario": "00:00 - 05:59",
+        "programa": "Madrugada 101",
         "locutor": "Equipe Central",
         "foto": "https://via.placeholder.com/150"
       },
       {
-        "horario": "12:00 - 18:00",
-        "programa": "Top Hits",
+        "horario": "06:00 - 07:59",
+        "programa": "Show da Manhã",
+        "locutor": "Danilo Vilela",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "08:00 - 10:59",
+        "programa": "Top Central",
+        "locutor": "Chicão",
+        "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/chicao.jpg"
+      },
+      {
+        "horario": "11:00 - 11:29",
+        "programa": "Criança Feliz",
+        "locutor": "Igreja Assembléia de Deus",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "11:30 - 11:59",
+        "programa": "Meia Hoda de Sucesso",
         "locutor": "Equipe Central",
         "foto": "https://via.placeholder.com/150"
       },
       {
-        "horario": "18:00 - 00:00",
-        "programa": "Sábado Night",
-        "locutor": "DJ Central",
+        "horario": "12:00 - 14:59",
+        "programa": "Central Alegre",
+        "locutor": "Alex Silva",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "15:00 - 17:59",
+        "programa": "Alto Astral",
+        "locutor": "Renata Lima",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "18:00 - 22:59",
+        "programa": "As 101 Mais Tocadas",
+        "locutor": "Equipe Central",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "23:00 - 23:59",
+        "programa": "Madrugada 101",
+        "locutor": "Equipe Central",
         "foto": "https://via.placeholder.com/150"
       }
     ],
