@@ -24,23 +24,23 @@
       {
         "horario": "05:00 - 08:00",
         "programa": "Show da Manhã",
-        "locutor": "Equipe Central",
+        "locutor": "Danilo Vilela",
         "foto": "https://via.placeholder.com/150"
       },
       {
         "horario": "08:00 - 11:00",
         "programa": "TOP Central",
-        "locutor": "Equipe Central",
+        "locutor": "Chicão",
         "foto": "https://via.placeholder.com/150"
       },
       {
-        "horario": "11:00 - 11:33",
+        "horario": "11:00 - 11:30",
         "programa": "A Voz das Assembleias de Deus",
         "locutor": "Igreja",
         "foto": "https://via.placeholder.com/150"
       },
       {
-        "horario": "11:33 - 13:00",
+        "horario": "11:30 - 13:00",
         "programa": "Jornal da Central",
         "locutor": "Alex Silva",
         "foto": "https://via.placeholder.com/150"
@@ -66,7 +66,7 @@
       {
         "horario": "18:05 - 21:00",
         "programa": "Noite 101",
-        "locutor": "Equipe Central",
+        "locutor": "Renata Lima",
         "foto": "https://via.placeholder.com/150"
       },
       {
