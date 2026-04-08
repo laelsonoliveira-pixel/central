@@ -123,7 +123,7 @@
         "horario": "15:00 - 17:59",
         "programa": "Alto Astral",
         "locutor": "Renata Lima",
-        "foto": "https://via.placeholder.com/150"
+        "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/renata_lima.jpg"
       },
       {
         "horario": "18:00 - 22:59",
@@ -140,20 +140,56 @@
     ],
     "domingo": [
       {
-        "horario": "06:00 - 12:00",
-        "programa": "Domingo Gospel",
-        "locutor": "Religioso",
+        "horario": "00:00 - 05:59",
+        "programa": "Madrugada 101",
+        "locutor": "Equipe 101",
         "foto": "https://via.placeholder.com/150"
       },
       {
-        "horario": "12:00 - 18:00",
-        "programa": "Domingo Alegre",
+        "horario": "06:00 - 08:59",
+        "programa": "Domingo show",
+        "locutor": "Cairo Santos",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "09:00 - 09:59",
+        "programa": "Santa Missa",
+        "locutor": Igreja",
+        "foto": "https://via.placeholder.com/150"
+      },
+      {
+        "horario": "10:00 - 11:59",
+        "programa": "Domingo Show",
+        "locutor": "Cairo Santos",
+        "foto": "https://via.placeholder.com/150"
+      },
+       {
+        "horario": "12:00 - 12:29",
+        "programa": "Ondas de Luz",
+        "locutor": "Programa Espirita",
+        "foto": "https://via.placeholder.com/150"
+      },
+       {
+        "horario": "12:30 - 12:59",
+        "programa": "Jovens Vencedores em Cristo",
+        "locutor": "Igreja",
+        "foto": "https://via.placeholder.com/150"
+      },
+       {
+        "horario": "13:00 - 17:59",
+        "programa": "Domingão Central",
         "locutor": "Equipe Central",
         "foto": "https://via.placeholder.com/150"
       },
-      {
-        "horario": "18:00 - 00:00",
-        "programa": "Flashback Central",
+       {
+        "horario": "18:00 - 22:59",
+        "programa": "As 101 Mais tocadas da Semana",
+        "locutor": "Equipe Central",
+        "foto": "https://via.placeholder.com/150"
+      },
+       {
+        "horario": "23:00 - 23:59",
+        "programa": "Madrugada 101",
         "locutor": "Equipe Central",
         "foto": "https://via.placeholder.com/150"
       }
