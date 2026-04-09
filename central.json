@@ -25,7 +25,7 @@
         "horario": "05:00 - 08:00",
         "programa": "Show da Manhã",
         "locutor": "Danilo Vilela",
-        "foto": "https://via.placeholder.com/150"
+        "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/Danilo_vilela.jpeg"
       },
       {
         "horario": "08:00 - 11:00",
@@ -43,7 +43,7 @@
         "horario": "11:30 - 13:00",
         "programa": "Jornal da Central",
         "locutor": "Alex Silva",
-        "foto": "https://via.placeholder.com/150"
+        "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/Alex.jpeg"
       },
       {
         "horario": "13:00 - 16:00",
@@ -55,7 +55,7 @@
         "horario": "16:00 - 18:00",
         "programa": "Alô Central",
         "locutor": "Cairo Santos",
-        "foto": "https://via.placeholder.com/150"
+        "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/cairo.jpeg"
       },
       {
         "horario": "18:00 - 18:05",
@@ -93,7 +93,7 @@
         "horario": "06:00 - 07:59",
         "programa": "Show da Manhã",
         "locutor": "Danilo Vilela",
-        "foto": "https://via.placeholder.com/150"
+        "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/Danilo_vilela.jpeg"
       },
       {
         "horario": "08:00 - 10:59",
@@ -117,7 +117,7 @@
         "horario": "12:00 - 14:59",
         "programa": "Central Alegre",
         "locutor": "Alex Silva",
-        "foto": "https://via.placeholder.com/150"
+        "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/Alex.jpeg"
       },
       {
         "horario": "15:00 - 17:59",
@@ -149,7 +149,7 @@
         "horario": "06:00 - 08:59",
         "programa": "Domingo show",
         "locutor": "Cairo Santos",
-        "foto": "https://via.placeholder.com/150"
+        "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/cairo.jpeg"
       },
       {
         "horario": "09:00 - 09:59",
@@ -161,7 +161,7 @@
         "horario": "10:00 - 11:59",
         "programa": "Domingo Show",
         "locutor": "Cairo Santos",
-        "foto": "https://via.placeholder.com/150"
+        "foto": "https://raw.githubusercontent.com/laelsonoliveira-pixel/central/refs/heads/main/cairo.jpeg"
       },
        {
         "horario": "12:00 - 12:29",
